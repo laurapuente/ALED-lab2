@@ -27,6 +27,8 @@ public class ForwardKinematics {
 	// Public method: returns the root of the position tree
 	public static Node computePositions(Segment root, double originX, double originY) {
 		
+		
+		
 		// TODO: Implemente este método
 		
 	}
